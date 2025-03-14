@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn  # If used
+openpyxl  # If working with Excel files
